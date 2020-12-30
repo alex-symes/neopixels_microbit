@@ -1,3 +1,5 @@
+# Neopixel lights and microbit
+This project connects a 150 light strip of neopixels to a microbit. It is a good project for parents and kids to work on together. "You can make lots of different things what you want to do." says the kid. 
 
 > Open this page at [https://alex-symes.github.io/neopixels_microbit/](https://alex-symes.github.io/neopixels_microbit/)
 
