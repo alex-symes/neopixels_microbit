@@ -1,5 +1,5 @@
 # Neopixel lights and microbit
-This project connects a 150 light strip of neopixels to a microbit. It is a good project for parents and kids to work on together. "You can make lots of different things what you want to do." says the kid (age 6). For beginners, note that the micro:bit produces 3v, while a long string of neopixels will require 5v. You will need a level shifter to make the project work. 
+This project connects a 150 light strip of neopixels to a microbit. It is a good project for parents and kids to work on together. "You can make lots of different things what you want to do." says the kid (age 6). For newcomers, note that the micro:bit produces 3v, while a long string of neopixels will require 5v. You will need a level shifter to make the project work. Adafruit recommends a capacitor as well. 
 
 > Open this page at [https://alex-symes.github.io/neopixels_microbit/](https://alex-symes.github.io/neopixels_microbit/)
 
